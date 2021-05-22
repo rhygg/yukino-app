@@ -132,6 +132,7 @@
                     <a
                         class="text-indigo-500 hover:text-indigo-600 font-bold"
                         href="https://github.com/zyrouge/yukino-app/#readme"
+                        target="_blank"
                         >readme</a
                     >
                     for information about contributing!
@@ -146,7 +147,7 @@
 
             <p class="mt-1">
                 Made with <i class="fas fa-heart"></i> by
-                <a class="font-bold" href="https://zyrouge.is-a.dev">Zyrouge</a
+                <a class="font-bold" href="https://zyrouge.is-a.dev" target="_blank">Zyrouge</a
                 >.
             </p>
         </div>
